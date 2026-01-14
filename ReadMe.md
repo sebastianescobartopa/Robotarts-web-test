@@ -1,6 +1,18 @@
-# iNdra Page Template: This is a Website / GitHub Page Template for Research Papers / Academic Papers [Free] [v1]
+# RobotArts Webpage
 
-> Demo Page - https://indramal.github.io/iNdra-GitHub-Page-Template-For-Resarch/
+> Link de la pagina web - https://indramal.github.io/iNdra-GitHub-Page-Template-For-Resarch/
+
+## RobotArts in a Nutshell
+
+Brief Description of the project ... 
+
+## Acknowledgments
+
+This research was partially supported by the Robotarts-Initiative project funded by 100K Strong in the Americas, an international collaboration among \textit{Universidad Pedagógica y Tecnológica de Colombia "UPTC" (Boyacá, Colombia)}, \textit{Universidad del Valle "UniValle" (Valle del Cauca, Colombia)}, and the Georgia Institute of Technology "Georgia Tech" (Georgia, United States). We would like to thank Dr. Francesco Fedele for his support during our Robotart internship at Georgia Tech, as well as for his insights, feedback, and guidance during the course “Art and Geometry,” and for introducing us to the world of art and brainwaves. Our gratitude also extends to Dr. Sean Wilson for his guidance throughout the project, as well as to Dr. Humberto Loaiza-Correa for his support. We gratefully acknowledge the \textit{Dirección de Relaciones Internacionales} offices at UniValle and UPTC for their assistance during the development of this initiative, as well as the research groups \textit{Percepción y Sistemas Inteligentes (PSI), Grupo de Investigación Interdisciplinaria en Electrónica Aplicada y Areas Socio-Ambientales (Giidea)} from UniValle, and \textit{Grupo de Investigación en Robotica y Automatización Industrial} (GIRA) from UPTC, for their collaboration and valuable contributions.
+% https://www.100kstrongamericas.org/roboarts-initiative/
+
+
+
 
 You can free to borrow from this template for your own personal use. Please do not remove below code of the template mentioned to about this template.
 
