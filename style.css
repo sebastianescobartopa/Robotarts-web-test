@@ -306,3 +306,19 @@ h2 {
 .dark-mode .nav a:hover {
   color: #3498db;
 }
+
+.footer-logos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-bottom: 15px;
+  flex-wrap: wrap;
+}
+
+.footer-logos img {
+  height: 60px;
+  max-width: 180px;
+  object-fit: contain;
+}
+
